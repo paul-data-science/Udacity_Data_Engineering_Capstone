@@ -4,7 +4,7 @@
 ##### Project Summary 
 
 In our research company, Data Scientists are tasked to observe tourism behaviors and called on the Data Engineers to clean, process and develop data model (star schema) that would be the starting point of long-term project (of more data collection and experimenting) that will allow them to hypothesis relationships or patterns between the cities that non-immigrants visited and the cities demographics. 
-We will create dimensional (and fact) tables and saved as parquet files for star schema model on I94 non-immigrants ports of entries data and US port city demographics data which will be a data model for queries on non-immigrants entering US to observe relationships between non-immigrants profiles (age, country of origin, seasons or holidays visited, reason for visiting, etc) and the cities demographics.
+We will create dimensional (and fact) tables and save them as parquet files for star schema model on I94 non-immigrants ports of entries data and US port city demographics data which will be a data model for queries on non-immigrants entering US to observe relationships between non-immigrants profiles (age, country of origin, seasons or holidays visited, reason for visiting, etc) and the cities demographics.
 
 The project overview steps:
 
