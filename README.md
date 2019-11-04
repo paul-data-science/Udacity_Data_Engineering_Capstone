@@ -1,4 +1,4 @@
-## Data Engineering Capstone Project
+## U.S. NON-IMMIGRANT TOURISM AND THEIR CITIES 
 *Please refer to [Capstone Project.ipynb](https://github.com/paulXLV/UdacityDataEngineeringCapstone/blob/master/Capstone%20Project.ipynb) to see full code explanation and data outputs.
 
 ##### Project Summary 
