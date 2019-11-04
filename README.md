@@ -1,2 +1,1 @@
-# BigDataEngineeringCapstone6
-UDACITY 2019 DATA ENGINEERING CAPSTONE PROJECT 6 COMPLETED AND PASSED
+# Udacity Data Engineering Capstone
